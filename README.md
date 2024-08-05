@@ -36,15 +36,13 @@ Email me at dovydas@dovydas.one to receive access to the codebase. I cannot open
 - **CI/CD**: Automated builds and deployments using GitHub Actions.
 - **Logging and Observability**: Implemented extensive logging and observability features to monitor application performance and health.
 - **Scripts and Services**: Custom bash scripts for setting up Arch/Ubuntu Linux VMs, along with Systemctl services for managing CI/CD pipelines and other processes.
+- **Environments**: Created separate development and test environments to ensure smooth development and deployment processes.
 
 ## Roadmap
 
-- **Logging**: Implement comprehensive logging for better issue tracking and debugging.
-- **Observability**: Integrate observability tools to monitor the application's performance and health.
-- **Testing**: Develop unit and integration tests to ensure code quality and reliability.
 - **Load Testing**: Conduct load testing to evaluate the application's performance under stress.
-- **Environments**: Create separate development and test environments to ensure smooth development and deployment processes.
 - **Database Backups**: Implement regular database backup mechanisms to prevent data loss.
+- **Switch to Kubernetes**: No downtime deployments, running separate sites for separate regions
 
 ## Getting Started
 
