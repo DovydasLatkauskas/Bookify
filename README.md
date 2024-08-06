@@ -4,8 +4,8 @@
 
 ## Code Access
 
-Email me at dovydas@dovydas.one to receive access to the codebase. I cannot open-source it as I intend to launch this website to production.
-
+The website is intended for production thus not open-source
+Email me at dovydas@dovydas.one to receive access
 ## Features
 
 - **Service Discovery**: Easily search and discover a variety of businesses.
